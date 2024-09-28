@@ -1,1 +1,0 @@
-# Super-Tic-tac-toe
